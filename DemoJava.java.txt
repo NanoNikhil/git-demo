@@ -2,6 +2,8 @@ Public Class DemoJava{
 	public static void main(String[] args){
 
 	System.out.println("HI THIS IS GIT");
+	System.out.println("New Update");
+
 } 	
  
 }
